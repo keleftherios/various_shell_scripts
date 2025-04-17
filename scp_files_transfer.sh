@@ -2,8 +2,8 @@
 
 # Declare variables
 declare SERVER_IP
-SOURCE_PATH="/home/kouvakis/workspace/latest_robot/robot/"
-DESTINATION_PATH="/data/atxuser/robot/"
+SOURCE_PATH="/home/<username>/workspace/latest_robot/robot/"
+DESTINATION_PATH="/data/<username>/robot/"
 
 # Delcare files to be tranfered
 declare -a SCP_FILES
